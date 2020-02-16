@@ -1,0 +1,10 @@
+{
+  "DistanceUnit.CM|block": "cm",
+  "DistanceUnit.INCH|block": "インチ",
+  "makerbit.connectUltrasonicDistanceSensor|block": "超音波距離センサに接続する | トリガー(Trig)は %trig に接続 | エコー(Echo)は %echo に接続",
+  "makerbit.getUltrasonicDistance|block": "超音波距離センサで測定した距離 | 距離の単位 %unit",
+  "makerbit.isUltrasonicDistanceLessThan|block": "超音波距離センサで測定した距離が %distance %unit より短いなら",
+  "makerbit|block": "MakerBit",
+  "{id:category}Makerbit": "Makerbit",
+  "{id:subcategory}Ultrasonic": "超音波距離センサ"
+}

@@ -1,0 +1,11 @@
+{
+  "makerbit": "MakerBit",
+  "makerbit.connectUltrasonicDistanceSensor": "超音波距離センサーを設定します。測定はバックグラウンドで動作します。",
+  "makerbit.connectUltrasonicDistanceSensor|param|echo": "エコー(Echo)に接続した端子。例: P8",
+  "makerbit.connectUltrasonicDistanceSensor|param|trig": "トリガー(Trig)に接続した端子。例: P5",
+  "makerbit.getUltrasonicDistance": "超音波距離センサーで測定した距離を返します。\n1cmから300cmまで測定できます。\n反射する物がない場合は300cmになります。\n超音波距離センサーが接続されていない場合は-1を返します。",
+  "makerbit.getUltrasonicDistance|param|unit": "距離の単位。例: cm",
+  "makerbit.isUltrasonicDistanceLessThan": "指定された距離より短い場合は `真` それ以外の場合は `偽` を返します。",
+  "makerbit.isUltrasonicDistanceLessThan|param|distance": "超音波距離センサーで測定した距離。例: 10",
+  "makerbit.isUltrasonicDistanceLessThan|param|unit": "距離の単位。例: cm"
+}
